@@ -1,7 +1,4 @@
-*.txt
-
-*.[ao]
-
 *.user
-
 *.autosave
+*.txt
+*.[ao]
